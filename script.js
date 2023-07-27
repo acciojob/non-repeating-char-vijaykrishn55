@@ -15,7 +15,7 @@ function non(input) {
 			return i;
 		}
 	}
-	return ans;
+	return null;
 }
 function main() {
 	let input=prompt("Enter a string"); 
